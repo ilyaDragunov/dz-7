@@ -56,9 +56,9 @@
 
 - Пример выполнения задания на скриншоте
 
-https://github.com/ilyaDragunov/dz-7/blob/main/2.1.JPG
-https://github.com/ilyaDragunov/dz-7/blob/main/2.2.JPG
-https://github.com/ilyaDragunov/dz-7/blob/main/2.3.JPG
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.1.JPG) "Рис 1")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.2.JPG) "Рис 1")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.3.JPG) "Рис 1")
 
 Способ 3 
 
