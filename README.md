@@ -56,9 +56,9 @@
 
 - Пример выполнения задания на скриншоте
 
-![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.1.JPG) "Рис 1")
-![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.2.JPG) "Рис 1")
-![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.3.JPG) "Рис 1")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.1.JPG) "Рис 4")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.2.JPG) "Рис 5")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/2.3.JPG) "Рис 6")
 
 Способ 3 
 
@@ -72,6 +72,9 @@
 - Для примера произвел сброс пароля.
 
 - Пример выполнения задания на скриншоте
+
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/3.1.JPG) "Рис 7")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/3.2.JPG) "Рис 8")
 
 
 3. Устанавливаем систему с LVM, после чего переименовываем VG. В качестве готовой системы я 
@@ -323,5 +326,6 @@ test
 
 - скриншот прилагается
 
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/pingvin.JPG) "Рис 9")
 
 # dz-7
