@@ -27,7 +27,7 @@
 
 - Пример выполнения задания на скриншоте
 
-![1.2 Image](https://github.com/[ilyaDragunov/dz-7/blob/main/1.2.JPG?raw=true)]
+[![Alt text]([/relative/path/to/img.jpg](https://github.com/ilyaDragunov/dz-7/blob/main/1.2.JPG)] "Optional Title")
 
 Способ 2
 
