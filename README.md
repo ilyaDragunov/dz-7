@@ -27,7 +27,7 @@
 
 - Пример выполнения задания на скриншоте
 
-[![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/1.2.JPG)] "Рис 1")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/1.2.JPG) "Рис 1")
 
 Способ 2
 
