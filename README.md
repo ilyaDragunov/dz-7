@@ -56,6 +56,10 @@
 
 - Пример выполнения задания на скриншоте
 
+https://github.com/ilyaDragunov/dz-7/blob/main/2.1.JPG
+https://github.com/ilyaDragunov/dz-7/blob/main/2.2.JPG
+https://github.com/ilyaDragunov/dz-7/blob/main/2.3.JPG
+
 Способ 3 
 
 - При выборе ядра для загрузки нажать "e" - и меняем настройки запуска в
