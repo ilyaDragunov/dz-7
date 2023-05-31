@@ -28,6 +28,8 @@
 - Пример выполнения задания на скриншоте
 
 ![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/1.2.JPG) "Рис 1")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/1.3.JPG) "Рис 2")
+![Alt text](https://github.com/ilyaDragunov/dz-7/blob/main/1.4.JPG) "Рис 3")
 
 Способ 2
 
